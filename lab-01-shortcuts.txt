@@ -1,0 +1,15 @@
+1: Command C
+2: Command V
+3: Command X
+4: Command S
+5: Shift + Option + A
+6: Command /
+7: Control + Right Arrow
+8: Control + Left Arrow
+9: Shift + Control + Right Arrow
+10: Shift + Control + Left Arrow
+11: Command A
+12: Shift + Down Arrow
+13: Command Left
+14: Command Right
+15: Command Up
